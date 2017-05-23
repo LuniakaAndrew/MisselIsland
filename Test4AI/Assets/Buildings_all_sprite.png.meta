@@ -1,0 +1,464 @@
+fileFormatVersion: 2
+guid: a268613cd66668c47a5163cc5ea86673
+timeCreated: 1472058776
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Buildings_all_sprite_0
+    21300002: Buildings_all_sprite_1
+    21300004: Buildings_all_sprite_2
+    21300006: Buildings_all_sprite_3
+    21300008: Buildings_all_sprite_4
+    21300010: Buildings_all_sprite_5
+    21300012: Buildings_all_sprite_6
+    21300014: Buildings_all_sprite_7
+    21300016: Buildings_all_sprite_8
+    21300018: Buildings_all_sprite_9
+    21300020: Buildings_all_sprite_10
+    21300022: Buildings_all_sprite_11
+    21300024: Buildings_all_sprite_12
+    21300026: Buildings_all_sprite_13
+    21300028: Buildings_all_sprite_14
+    21300030: Buildings_all_sprite_15
+    21300032: Buildings_all_sprite_16
+    21300034: Buildings_all_sprite_17
+    21300036: Buildings_all_sprite_18
+    21300038: Buildings_all_sprite_19
+    21300040: Buildings_all_sprite_20
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Buildings_all_sprite_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 222
+        width: 85
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7.5, y: 37}
+        - {x: -42.5, y: 19}
+        - {x: -42.5, y: -28}
+        - {x: -15.5, y: -37}
+        - {x: 25.5, y: -37}
+        - {x: 42.5, y: -16}
+        - {x: 42.5, y: 18}
+        - {x: 15.5, y: 37}
+    - name: Buildings_all_sprite_1
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 222
+        width: 85
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7.5, y: 37}
+        - {x: -42.5, y: 19}
+        - {x: -42.5, y: -28}
+        - {x: -15.5, y: -37}
+        - {x: 25.5, y: -37}
+        - {x: 42.5, y: -16}
+        - {x: 42.5, y: 18}
+        - {x: 15.5, y: 37}
+    - name: Buildings_all_sprite_2
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 222
+        width: 85
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7.5, y: 37}
+        - {x: -42.5, y: 19}
+        - {x: -42.5, y: -28}
+        - {x: -15.5, y: -37}
+        - {x: 25.5, y: -37}
+        - {x: 42.5, y: -16}
+        - {x: 42.5, y: 18}
+        - {x: 15.5, y: 37}
+    - name: Buildings_all_sprite_3
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 222
+        width: 85
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7.5, y: 37}
+        - {x: -42.5, y: 19}
+        - {x: -42.5, y: -28}
+        - {x: -15.5, y: -37}
+        - {x: 25.5, y: -37}
+        - {x: 42.5, y: -16}
+        - {x: 42.5, y: 18}
+        - {x: 15.5, y: 37}
+    - name: Buildings_all_sprite_4
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 222
+        width: 85
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7.5, y: 37}
+        - {x: -42.5, y: 19}
+        - {x: -42.5, y: -28}
+        - {x: -15.5, y: -37}
+        - {x: 25.5, y: -37}
+        - {x: 42.5, y: -16}
+        - {x: 42.5, y: 18}
+        - {x: 15.5, y: 37}
+    - name: Buildings_all_sprite_5
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 222
+        width: 85
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7.5, y: 37}
+        - {x: -42.5, y: 19}
+        - {x: -42.5, y: -28}
+        - {x: -15.5, y: -37}
+        - {x: 25.5, y: -37}
+        - {x: 42.5, y: -16}
+        - {x: 42.5, y: 18}
+        - {x: 15.5, y: 37}
+    - name: Buildings_all_sprite_6
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 222
+        width: 85
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7.5, y: 37}
+        - {x: -42.5, y: 19}
+        - {x: -42.5, y: -28}
+        - {x: -15.5, y: -37}
+        - {x: 25.5, y: -37}
+        - {x: 42.5, y: -16}
+        - {x: 42.5, y: 18}
+        - {x: 15.5, y: 37}
+    - name: Buildings_all_sprite_7
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 148
+        width: 85
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7.5, y: 37}
+        - {x: -42.5, y: 19}
+        - {x: -42.5, y: -28}
+        - {x: -15.5, y: -37}
+        - {x: 25.5, y: -37}
+        - {x: 42.5, y: -16}
+        - {x: 42.5, y: 18}
+        - {x: 15.5, y: 37}
+    - name: Buildings_all_sprite_8
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 148
+        width: 85
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7.5, y: 37}
+        - {x: -42.5, y: 19}
+        - {x: -42.5, y: -28}
+        - {x: -15.5, y: -37}
+        - {x: 25.5, y: -37}
+        - {x: 42.5, y: -16}
+        - {x: 42.5, y: 18}
+        - {x: 15.5, y: 37}
+    - name: Buildings_all_sprite_9
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 148
+        width: 85
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7.5, y: 37}
+        - {x: -42.5, y: 19}
+        - {x: -42.5, y: -28}
+        - {x: -15.5, y: -37}
+        - {x: 25.5, y: -37}
+        - {x: 42.5, y: -16}
+        - {x: 42.5, y: 18}
+        - {x: 15.5, y: 37}
+    - name: Buildings_all_sprite_10
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 148
+        width: 85
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7.5, y: 37}
+        - {x: -42.5, y: 19}
+        - {x: -42.5, y: -28}
+        - {x: -15.5, y: -37}
+        - {x: 25.5, y: -37}
+        - {x: 42.5, y: -16}
+        - {x: 42.5, y: 18}
+        - {x: 15.5, y: 37}
+    - name: Buildings_all_sprite_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 74
+        width: 85
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 41.5, y: 6}
+        - {x: -42.5, y: 6}
+        - {x: -42.5, y: -10}
+        - {x: -40.5, y: -11}
+        - {x: 39.5, y: -11}
+        - {x: 41.5, y: -10}
+    - name: Buildings_all_sprite_12
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 74
+        width: 85
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7.5, y: 37}
+        - {x: -42.5, y: 19}
+        - {x: -42.5, y: -28}
+        - {x: -15.5, y: -37}
+        - {x: 25.5, y: -37}
+        - {x: 42.5, y: -16}
+        - {x: 42.5, y: 18}
+        - {x: 15.5, y: 37}
+    - name: Buildings_all_sprite_13
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 74
+        width: 85
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7.5, y: 37}
+        - {x: -42.5, y: 19}
+        - {x: -42.5, y: -28}
+        - {x: -15.5, y: -37}
+        - {x: 25.5, y: -37}
+        - {x: 42.5, y: -16}
+        - {x: 42.5, y: 18}
+        - {x: 15.5, y: 37}
+    - name: Buildings_all_sprite_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 85
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -31.5, y: 15}
+        - {x: -31.5, y: -11}
+        - {x: 32.5, y: -11}
+        - {x: 32.5, y: 15}
+    - name: Buildings_all_sprite_15
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 0
+        width: 85
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20.5, y: 15}
+        - {x: -20.5, y: -10}
+        - {x: -19.5, y: -11}
+        - {x: 23.5, y: -11}
+        - {x: 23.5, y: 15}
+    - name: Buildings_all_sprite_16
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 0
+        width: 85
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7.5, y: 37}
+        - {x: -42.5, y: 19}
+        - {x: -42.5, y: -28}
+        - {x: -15.5, y: -37}
+        - {x: 25.5, y: -37}
+        - {x: 42.5, y: -16}
+        - {x: 42.5, y: 18}
+        - {x: 15.5, y: 37}
+    - name: Buildings_all_sprite_17
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 0
+        width: 85
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24.5, y: 5}
+        - {x: -27.5, y: -3}
+        - {x: -27.5, y: -8}
+        - {x: -26.5, y: -9}
+        - {x: 24.5, y: -9}
+        - {x: 27.5, y: -7}
+        - {x: 27.5, y: 0}
+        - {x: 26.5, y: 5}
+    - name: Buildings_all_sprite_18
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 0
+        width: 85
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -38.5, y: 6}
+        - {x: -38.5, y: -8}
+        - {x: 37.5, y: -8}
+        - {x: 39.5, y: -3}
+        - {x: 39.5, y: 6}
+    - name: Buildings_all_sprite_19
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 0
+        width: 85
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -32.5, y: 15}
+        - {x: -35.5, y: 9}
+        - {x: -35.5, y: -10}
+        - {x: -34.5, y: -11}
+        - {x: 34.5, y: -11}
+        - {x: 36.5, y: -9}
+        - {x: 36.5, y: 12}
+        - {x: 28.5, y: 15}
+    - name: Buildings_all_sprite_20
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 0
+        width: 85
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22.5, y: 15}
+        - {x: -35.5, y: 0}
+        - {x: -35.5, y: -7}
+        - {x: -33.5, y: -11}
+        - {x: 36.5, y: -11}
+        - {x: 36.5, y: 4}
+        - {x: 25.5, y: 15}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
